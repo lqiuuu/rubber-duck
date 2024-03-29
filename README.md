@@ -2,7 +2,7 @@
 
 ITP Dynamic Web Development 2024 Spring, Assignment #1.
 
-![Logo]("icon.gif")
+![Logo](icon.gif)
 
 ## About
 
